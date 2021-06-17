@@ -10,6 +10,6 @@ The event Next Level Week, at 12/10 to 16/10 by RocketSeat. The project turn arr
 ## FUNCTIONALITIES
 
 - Map View ✔️
-- Registration of new orphaneges ✔️
+- Register of new orphaneges ✔️
 - Can pin the localization ✔️
 - Images upload (5 images for each orphanage) ✔️
